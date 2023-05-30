@@ -1,0 +1,11 @@
+1.SELECT nama_produk,indikasi_obat FROM 'detail_obat'
+2.SELECT id FROM 'detail_obat'
+3.SELECT aturan_minum FROM 'detail_obat'
+4.SELECT * FROM 'detail_obat' WHERE nama_produk = "antimo";
+5.SELECT * FROM 'detail_obat' WHERE id <> "5";
+6.SELECT * FROM 'detail_obat' WHERE id  > 5;
+7.SELECT * FROM 'detail_obat' WHERE id  >= 5;
+8.SELECT * FROM 'detail_obat' WHERE id  < 5;
+9.SELECT * FROM 'detail_obat' WHERE id  >= 5;
+10.SELECT * FROM 'detail_obat'
+
